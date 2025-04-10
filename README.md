@@ -101,7 +101,7 @@ Once all services are running in separate terminals, you can test the system usi
 
 There is a file called `test.py`, so run the script in the terminal:
 ```bash
-python test_request.py
+python test.py
 ```
 
 ---
